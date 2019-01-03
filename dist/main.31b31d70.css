@@ -9556,3 +9556,15 @@ h1 {
 .p-text {
   font-size: 15px;
 }
+
+.brand-div {
+  background-color: #e8f3ec;
+}
+
+.box-heads {
+  background-image: url("medium-box-heads.b6b4f9c1.png");
+  background-position: bottom right;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+  width: 50% !important;
+}

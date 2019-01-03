@@ -9533,3 +9533,26 @@ h1 {
   width: 25px;
   height: 25px;
 }
+
+.head-img {
+  height: 200px;
+  width: 300px;
+}
+
+.middle-img-1 {
+  height: 100px;
+  width: 100px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+.h1-text {
+  font-size: 20px;
+  font-weight: none;
+}
+
+.p-text {
+  font-size: 15px;
+}

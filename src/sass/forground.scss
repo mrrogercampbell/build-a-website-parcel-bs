@@ -1,0 +1,33 @@
+.bookmark {
+    background-image: url('../img/bookmark-icon.png');
+    background-position: 50% 50% !important;
+    background-origin: border-box!important;
+    background-size: contain;
+    background-repeat: no-repeat!important; 
+    // cover!important;
+    // height: 10px;
+    width: 10%!important;
+    // background-size: 30px;
+}
+
+.article-photo-sm {
+    background-image: url('../img/sloth-100-100.png');
+    background-position: 50% 50% !important;
+    background-origin: border-box!important;
+    background-size: cover!important;
+    width: 100%!important;
+    // height: 100%!important;
+    display: block!important;
+}
+
+.side-panel-nums {
+    font-size: 34px!important;
+    color: rgba(0,0,0,.15)!important;
+    fill: rgba(0,0,0,.15)!important;
+    margin-top: 4px!important;
+    display: block;
+}
+
+.h4-pop-fground {
+    margin-left: 16px!important;
+}

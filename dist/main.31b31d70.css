@@ -9571,8 +9571,18 @@ h1 {
 
 .bookmark {
   background-image: url("bookmark-icon.3364fc3a.png");
+  background-position: 50% 50% !important;
+  background-origin: border-box !important;
+  background-size: contain;
+  background-repeat: no-repeat !important;
+  width: 10% !important;
 }
 
 .article-photo-sm {
   background-image: url("sloth-100-100.a81da12f.png");
+  background-position: 50% 50% !important;
+  background-origin: border-box !important;
+  background-size: cover !important;
+  width: 100% !important;
+  display: block !important;
 }

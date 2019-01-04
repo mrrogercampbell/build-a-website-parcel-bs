@@ -9540,6 +9540,10 @@ h3 {
   width: 100px;
 }
 
+.stream-div {
+  border-bottom: solid grey 1px;
+}
+
 .brand-div {
   background-color: #e8f3ec;
 }

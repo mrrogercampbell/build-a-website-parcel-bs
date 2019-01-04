@@ -9568,3 +9568,11 @@ h1 {
   background-size: contain !important;
   width: 50% !important;
 }
+
+.bookmark {
+  background-image: url("bookmark-icon.3364fc3a.png");
+}
+
+.article-photo-sm {
+  background-image: url("sloth-100-100.a81da12f.png");
+}

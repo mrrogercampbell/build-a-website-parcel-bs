@@ -176,7 +176,7 @@ var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"./../img/medium-box-heads.png":[["medium-box-heads.b6b4f9c1.png","../img/medium-box-heads.png"],"../img/medium-box-heads.png"],"_css_loader":"../../../../../../../usr/local/lib/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../../../../../../../usr/local/lib/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"./../img/medium-box-heads.png":[["medium-box-heads.b6b4f9c1.png","../img/medium-box-heads.png"],"../img/medium-box-heads.png"],"./../img/bookmark-icon.png":[["bookmark-icon.3364fc3a.png","../img/bookmark-icon.png"],"../img/bookmark-icon.png"],"./../img/sloth-100-100.png":[["sloth-100-100.a81da12f.png","../img/sloth-100-100.png"],"../img/sloth-100-100.png"],"_css_loader":"../../../../../../../usr/local/lib/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../../../../../../../usr/local/lib/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
